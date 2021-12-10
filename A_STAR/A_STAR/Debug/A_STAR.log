@@ -1,0 +1,6 @@
+﻿  A_STAR.cpp
+D:\studia_sem5\ERI\c1\A_STAR\A_STAR\A_STAR.cpp(54,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\studia_sem5\ERI\c1\A_STAR\A_STAR\A_STAR.cpp(76,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\studia_sem5\ERI\c1\A_STAR\A_STAR\A_STAR.cpp(98,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\studia_sem5\ERI\c1\A_STAR\A_STAR\A_STAR.cpp(120,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  A_STAR.vcxproj -> D:\studia_sem5\ERI\c1\A_STAR\Debug\A_STAR.exe
